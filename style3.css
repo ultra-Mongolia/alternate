@@ -1,0 +1,15 @@
+.container{
+	width:1170px;
+	margin:0 auto;
+}
+body{
+	background-image:url('https://static.wikia.nocookie.net/dealphatale/images/3/36/The_Halo_Tree.jpg/revision/latest/scale-to-width-down/440?cb=20231203061913');
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	background-position:top;
+}
+.cosmology{
+	background-color:purple;
+	padding:10px;
+}
